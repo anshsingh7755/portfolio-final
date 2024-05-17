@@ -37,9 +37,9 @@ export default function Contact() {
           // onMouseEnter={() => bigCircleEnter("Mail Me")}
           // onMouseLeave={() => makeDefault()}
           className="underline"
-          href="mailto:agrawaljash99@gmail.com"
+          href="mailto:singhansh7755@gmail.com"
         >
-          agrawaljash99@gmail.com
+          singhansh7755@gmail.com
         </a>{" "}
         or through this form.
       </p>
