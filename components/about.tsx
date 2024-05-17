@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
 
       <p className="mb-3">
-        Hey there, I'm Jash Agrawal, your friendly neighborhood{" "}
+        Hey there, I'm Himanshu Singh, your friendly neighborhood{" "}
         <span className="font-medium italic underline">
           Full Stack Developer
         </span>
