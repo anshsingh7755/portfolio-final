@@ -31,8 +31,8 @@ export default function About() {
           <span className="font-normal">and</span> SQL
         </span>
         , and I've got a <span className="font-medium">Bachelor's</span> in{" "}
-        <span className="font-medium">Computer Engineering</span> from the{" "}
-        <span className="font-medium">University Of Mumbai</span> to back it up!
+        <span className="font-medium">Computer Science Engineering</span> from {" "}
+        <span className="font-medium">NIET Greater Noida</span> to back it up!
       </p>
       <p className="mb-3">
         I <span className="underline italic">thrive</span> on{" "}
