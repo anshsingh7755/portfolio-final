@@ -12,9 +12,9 @@ import CursorProvider from "@/context/cursor-context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Jash Agrawal | Personal Portfolio",
+  title: "Himanshu Singh | Personal Portfolio",
   description:
-    "Jash Agrawal is a full-stack developer with 1+ years of experience.",
+    "Himanshu Singh is a full-stack developer with 1+ years of experience.",
 };
 
 export default function RootLayout({
