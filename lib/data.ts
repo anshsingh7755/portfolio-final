@@ -208,7 +208,7 @@ export const projectsData = [
   },
 ] as const;
 
-export const descriptionData = `Hey there, I'm Jash Agrawal, a dedicated Full Stack Developer with a flair for JavaScript, React, Redux, NodeJs, and SQL. With a Bachelor's in Computer Engineering from the University Of Mumbai, I'm all about crafting solutions that make a difference.
+export const descriptionData = `Hey there, I'm Himanshu Singh, a dedicated Full Stack Developer with a flair for JavaScript, React, Redux, NodeJs, and SQL. With a Bachelor's in Computer Engineering from NIET Greater Noida, I'm all about crafting solutions that make a difference.
 
 Problem-solving is my jam. There's nothing quite like the rush of cracking a tough nut and finding the perfect solution.
 
