@@ -137,11 +137,11 @@ social recommendation app.
   },
   {
     title: "Free Lancer",
-    company: "Jash Agrawal Tech",
+    company: "Ansh Tech",
     location: "Remote",
     description: `As a freelancer, I utilized MongoDB, Express, React, and Node.js to create dynamic applications that seamlessly integrated frontend and backend functionality. Implemented RESTful APIs for efficient communication and employed Git for version control to ensure codebase integrity. I am open to new opportunities`,
     icon: React.createElement(FaReact),
-    date: "08/2023 - present",
+    date: "08/2021 - present",
   },
 ] as const;
 
