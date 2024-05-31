@@ -163,9 +163,9 @@ export const projectsData = [
     link: "https://66574a7a5773010008f2be60--keen-eclair-d19654.netlify.app/",
   },
   {
-    title: "Vangaurd Vogue",
+    title: "Marketify",
     description:
-      "Vanguard Vogue: Anime apparel e-commerce site. Collaborated closely with the client to craft a custom interface reflecting their unique style.",
+      "e-commerce site, Collaborated closely with the client to craft a custom interface reflecting their unique style.",
     tags: [
       skills["react"],
       skills["redux"],
@@ -174,8 +174,8 @@ export const projectsData = [
       skills["typescript"],
       skills["tailwind"],
     ],
-    imageUrl: VV,
-    link: "https://vangaurd-vogue.vercel.app/",
+    imageUrl: e-commerce,
+    link: "https://e-commerce-woad-three.vercel.app/categories/all",
   },
   {
     title: "Ielts Wizardz",
