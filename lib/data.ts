@@ -147,7 +147,7 @@ social recommendation app.
 
 export const projectsData = [
   {
-    title: "AutoBackend",
+    title: "Niet Library Website",
     description:
       "I worked on this awesome startup project for 6 years.Where Users can automatically generate complete backend code with database queries",
     tags: [
@@ -159,8 +159,8 @@ export const projectsData = [
       skills["sql"],
       skills["tailwind"],
     ],
-    imageUrl: Autobackend,
-    link: "https://autobackend.vercel.app/",
+    imageUrl: Niet-Library-website,
+    link: "https://main--keen-eclair-d19654.netlify.app/",
   },
   {
     title: "Vangaurd Vogue",
