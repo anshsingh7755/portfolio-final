@@ -163,7 +163,7 @@ export const projectsData = [
     link: "https://66574a7a5773010008f2be60--keen-eclair-d19654.netlify.app/",
   },
   {
-    title: "Marketify",
+    title: "E-Commerce",
     description:
       "e-commerce site, Collaborated closely with the client to craft a custom interface reflecting their unique style.",
     tags: [
@@ -178,9 +178,9 @@ export const projectsData = [
     link: "https://e-commerce-woad-three.vercel.app/categories/all",
   },
   {
-    title: "Ielts Wizardz",
+    title: "Email-Classifier",
     description:
-      "Designed and built website for IELTS Wizardz, showcasing their comprehensive study abroad services and impressive track record of student success.",
+      "Classifies unwanted and spam emails withb the help of previous recorded data. it saves average of 50% of the time of the users.",
     tags: [
       skills["react"],
       skills["crm"],
