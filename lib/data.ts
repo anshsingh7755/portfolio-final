@@ -147,9 +147,9 @@ social recommendation app.
 
 export const projectsData = [
   {
-    title: "Niet Library Website",
+    title: "Niet-Library-Website",
     description:
-      "I worked on this awesome startup project for 6 years.Where Users can automatically generate complete backend code with database queries",
+      "I worked on this awesome startup project for 1 years.Where Users can access several books according to there requirements.",
     tags: [
       skills["react"],
       skills["redux"],
