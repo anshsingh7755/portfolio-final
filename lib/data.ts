@@ -25,9 +25,9 @@ import {
 } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
 //@ts-ignore
-import Autobackend from "@/public/autobackend.png";
+import Autobackend from "@/public/Niet-Library-Website.png";
 //@ts-ignore
-import VV from "@/public/vangaurd_vogue.png";
+import VV from "@/public/e-commerce.png";
 //@ts-ignore
 import SP from "@/public/sp.png";
 //@ts-ignore
