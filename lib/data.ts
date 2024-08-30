@@ -159,7 +159,7 @@ export const projectsData = [
       skills["sql"],
       skills["tailwind"],
     ],
-    imageUrl: Niet-Library-website,
+    imageUrl: College_Website,
     link: "https://66574a7a5773010008f2be60--keen-eclair-d19654.netlify.app/",
   },
   {
@@ -174,7 +174,7 @@ export const projectsData = [
       skills["typescript"],
       skills["tailwind"],
     ],
-    imageUrl: e-commerce,
+    imageUrl: E_commerce,
     link: "https://e-commerce-woad-three.vercel.app/categories/all",
   },
   {
